@@ -68,6 +68,19 @@ sup, .sup {
   background-size: cover;
 }
 
+#banana-img {
+  background-position-x: -400px;
+  background-position-y: -50px;
+
+}
+
+#here-now {
+  /* background-position-x: -175px;*/
+  background-position-y: -15px; 
+  background-position-x: -125px;
+  background-size: auto
+}
+
 .navbar-light .navbar-nav .nav-link {
   text-transform: uppercase;
   padding-right: 1rem;
