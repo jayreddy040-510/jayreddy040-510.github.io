@@ -143,7 +143,9 @@ header.p-section {
   float: left;
   margin-right: 25px;
 }
-
+#saba {
+  scale: 0.8
+}
 .marker-highlight {
   position: relative;
   display: inline-block;
